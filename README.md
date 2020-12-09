@@ -5,7 +5,8 @@
 - 👯 I’m looking to collaborate on ... 🤔
 - 💬 Ask me about ...
   - Kotlin 🥳, GitHub Actions 🤖, Spring Boot 🍃, Cloud Native ☁ 
-  - Clean Code, Devloper Experience / Practices 
+  - OpenAPI/Swagger, REST, GraphQL 
+  - Clean Code, Devloper Experience / Best Practices 
 - 📫 How to reach me: the inter-🕸's
 - 😄 Pronouns:
   - Early Adpoter 🤓
