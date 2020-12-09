@@ -1,3 +1,4 @@
+🚧 WIP 👷🏻‍♂️
 - 🔭 I’m currently working at https://github.com/ScaCap 💰🤖📈 -- Backend/Eng Lead 👨🏻‍💻 👨‍👧‍👧
 - 🌱 I’m currently learning:
   - some more React/TypeScript 💫
@@ -15,6 +16,7 @@
 - ⚡ ~~Fun fact~~: 
   - Sorry I'm 🇩🇪 (see, wasn't funny 🤷🏻‍♂️)
   - 🏞-guy, got a bit lazy 😌 -- or just coding more 🤓
+  - Member of the Emoji-Guild
   
   
   
