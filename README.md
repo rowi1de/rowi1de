@@ -11,8 +11,8 @@
   - Early Adpoter 🤓
   - (Somtimes) too Early Adpoter 💣
   - Motivated 💪🏻 Status Quo 💤
-- ⚡ ~~Fun fact: 
-  - Sorry I'm 🇩🇪 
+- ⚡ ~~Fun fact~~: 
+  - Sorry I'm 🇩🇪 (see, wasn't funny 🤷🏻‍♂️)
   - 🏞-guy, got a bit lazy 😌 -- or just coding more 🤓
  
 
