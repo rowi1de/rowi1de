@@ -8,7 +8,7 @@
 - 💬 Ask me about ...
   - Kotlin 🥳, GitHub Actions 🤖, Spring Boot 🍃, Cloud Native ☁ 
   - OpenAPI/Swagger, REST, GraphQL 🔌
-  - Clean Code, Devloper Experience / Best Practices 
+  - Clean Code, Developer Experience / Best Practices 
 - 📫 How to reach me: the inter-🕸's
 - 😄 Pronouns:
   - Early Adpoter 🤓
