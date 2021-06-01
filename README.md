@@ -1,5 +1,5 @@
 🚧 WIP 👷🏻‍♂️
-- 🔭 I’m currently working at /iits-consulting
+- 🔭 I’m currently working at [iits-consulting](https://github.com/iits-consulting)
 - 👯 I’m looking to collaborate on ... 🤔
 - 💬 Ask me about ...
   - Kotlin 🥳, GitHub Actions 🤖, Spring Boot 🍃, Cloud Native ☁ 
