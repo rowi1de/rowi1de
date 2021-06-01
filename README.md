@@ -1,9 +1,5 @@
 🚧 WIP 👷🏻‍♂️
-- 🔭 I’m currently working at https://github.com/ScaCap 💰🤖📈 -- Backend/Eng Lead 👨🏻‍💻 👨‍👧‍👧
-- 🌱 I’m currently learning:
-  - some more React/TypeScript 💫
-  - k8s 📦 🐳
-  - GitOps ⚙️
+- 🔭 I’m currently working at /iits-consulting
 - 👯 I’m looking to collaborate on ... 🤔
 - 💬 Ask me about ...
   - Kotlin 🥳, GitHub Actions 🤖, Spring Boot 🍃, Cloud Native ☁ 
