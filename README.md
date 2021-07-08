@@ -6,7 +6,7 @@
   - OpenAPI/Swagger, REST, GraphQL 🔌
   - Clean Code, Developer Experience / Best Practices 
 - 📫 How to reach me: the inter-🕸's
-- 😄 Pronouns:
+- 😄 Attributes:
   - Early Adpoter 🤓
   - (Somtimes) too Early Adpoter 💣
   - Motivated 💪🏻 Status Quo 💤
