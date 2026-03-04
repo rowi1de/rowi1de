@@ -10,6 +10,7 @@
 - Drive alignment between **product goals** and **engineering execution** 🎯
 - Promote **knowledge sharing**, mentorship, and team enablement 📚🔥
 - Provide **technical leadership** across teams and systems 💬🧭
+
 ---
 
 ### 🧑‍💻 Ask Me About:
@@ -21,15 +22,23 @@
 
 ---
 
+### 🧭 How to Work With Me
+
+I value **integrity, reliability, curiosity, and consistency**.  
+I prefer **direct communication, written discussions, and pragmatic decision-making**.
+
+I enjoy solving complex problems, improving developer platforms, and helping teams move faster while keeping systems reliable.
+
+📄 Read more: **[How to work with me](./how-to-work-with-me.md)**
+
+---
+
 ### 🏗️ Previously:
 - 🟪 Tech Lead at [Reev GmbH](https://github.com/emonvia) – EV cloud platform & services
 - 🟦 Expert Lead at [Scalable Capital](https://github.com/scacap) – FinTech
-
 
 ---
 
 ### 🤝 Let’s Connect
 - 🌐 [linkedin.com/in/ro-wi](https://linkedin.com/in/ro-wi)
 - 📝 _Check out my GitHub activity to see what I’ve been building recently._
-
-
