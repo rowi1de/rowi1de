@@ -13,7 +13,21 @@
 
 ---
 
-### 🧑‍💻 Ask Me About:
+### 🧠 Currently Learning
+How to integrate **AI-assisted engineering** into production-grade development workflows.
+
+- Applying **AI coding agents** to accelerate large refactors, cross-repo changes, and API evolution  
+  ([Claude Code](https://github.com/claude) · [Anthropic](https://github.com/anthropics) · [OpenAI](https://github.com/openai) · [OpenAI Codex](https://github.com/openai/codex))
+- Building **deterministic AI-assisted delivery loops** (design → implement → test → review → deploy)
+- Integrating AI into **CI/CD pipelines**, infrastructure workflows, and developer platform tooling
+- Establishing guardrails to prevent **architectural drift**, ensure **spec consistency**, and keep AI-generated changes reviewable
+- Turning AI from an ad-hoc helper into a **reliable engineering productivity system**
+
+---
+
+### ~~🧑‍💻 Ask Me About~~  
+### 🧑‍💻 Things People Asked Me Before AI
+
 - Kotlin 🥳, Spring Boot 🍃
 - GitHub Actions 🤖, GitOps 🔁
 - OpenAPI, REST, GraphQL 🔌
