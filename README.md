@@ -13,7 +13,21 @@
 
 ---
 
-### 🧑‍💻 Ask Me About:
+### 🧠 Currently Learning
+How to integrate **AI-assisted engineering** into production-grade development workflows.
+
+- Applying **AI coding agents** to accelerate large refactors, cross-repo changes, and API evolution  
+  https://github.com/claude • https://github.com/anthropics • https://github.com/openai • https://github.com/openai/codex
+- Building **deterministic AI-assisted delivery loops** (design → implement → test → review → deploy)
+- Integrating AI into **CI/CD pipelines**, infrastructure workflows, and developer platform tooling
+- Establishing guardrails to prevent **architectural drift**, ensure **spec consistency**, and keep AI-generated changes reviewable
+- Turning AI from an ad-hoc helper into a **reliable engineering productivity system**
+
+---
+
+### ~~🧑‍💻 Ask Me About~~  
+### 🧑‍💻 Things People Asked Me Before AI
+
 - Kotlin 🥳, Spring Boot 🍃
 - GitHub Actions 🤖, GitOps 🔁
 - OpenAPI, REST, GraphQL 🔌
@@ -34,8 +48,8 @@ I enjoy solving complex problems, improving developer platforms, and helping tea
 ---
 
 ### 🏗️ Previously:
-- 🟪 Tech Lead at [Reev GmbH](https://github.com/emonvia) – EV cloud platform & services
-- 🟦 Expert Lead at [Scalable Capital](https://github.com/scacap) – FinTech
+- 🟪 Tech Lead at Reev GmbH – EV cloud platform & services
+- 🟦 Expert Lead at Scalable Capital – FinTech
 
 ---
 
