@@ -55,4 +55,5 @@ I enjoy solving complex problems, improving developer platforms, and helping tea
 
 ### 🤝 Let’s Connect
 - 🌐 [linkedin.com/in/ro-wi](https://linkedin.com/in/ro-wi)
+- ☕✨ [Buy me a coffee](https://buymeacoffee.com/rowi) if you enjoy my projects or want to support my work
 - 📝 _Check out my GitHub activity to see what I’ve been building recently._
