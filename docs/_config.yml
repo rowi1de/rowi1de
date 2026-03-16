@@ -1,12 +1,11 @@
 title: Robert Wiesner
 description: Platform Engineer — Technical Leadership, Developer Infrastructure, AI-Assisted Engineering
-remote_theme: pages-themes/slate@v0.2.0
+theme: jekyll-theme-slate
 plugins:
-  - jekyll-remote-theme
   - jekyll-seo-tag
 
 url: https://rowi1de.github.io
-baseurl: ""
+baseurl: /rowi1de
 
 author: Robert Wiesner
 
