@@ -13,15 +13,13 @@
 
 ---
 
-### 🧠 Currently Learning
-How to integrate **AI-assisted engineering** into production-grade development workflows.
+### 🧠 Currently Building
+Turning **AI-assisted engineering** from experiment into production-grade workflow.
 
-- Applying **AI coding agents** to accelerate large refactors, cross-repo changes, and API evolution  
-  ([Claude Code](https://github.com/claude) · [Anthropic](https://github.com/anthropics) · [OpenAI](https://github.com/openai) · [OpenAI Codex](https://github.com/openai/codex))
-- Building **deterministic AI-assisted delivery loops** (design → implement → test → review → deploy)
+- Building **[Claude Code](https://claude.com/claude-code) Skills & Plugins** — markdown-based instruction sets that encode team knowledge, conventions, and domain expertise so AI applies them automatically
+- Setting up **shared plugin marketplaces** — internal skill registries so entire teams benefit from codified best practices
 - Integrating AI into **CI/CD pipelines**, infrastructure workflows, and developer platform tooling
 - Establishing guardrails to prevent **architectural drift**, ensure **spec consistency**, and keep AI-generated changes reviewable
-- Turning AI from an ad-hoc helper into a **reliable engineering productivity system**
 
 ---
 
