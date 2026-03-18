@@ -57,6 +57,8 @@ I write about AI-assisted engineering, platform building, and developer tooling 
 
 [![Substack](https://img.shields.io/badge/Substack-rowi1de-orange?style=flat-square&logo=substack)](https://rowi1de.substack.com)
 
+> **Full disclosure:** My articles are written with AI assistance — because that’s the whole point. I’m experimenting with using the same tool for developing AND sharing knowledge. The ideas and experience are real, the writing is a collaboration.
+
 ---
 
 ### 🤝 Let’s Connect
