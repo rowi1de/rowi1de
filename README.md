@@ -51,7 +51,16 @@ I enjoy solving complex problems, improving developer platforms, and helping tea
 
 ---
 
+### ✍️ Writing
+
+I write about AI-assisted engineering, platform building, and developer tooling on Substack:
+
+[![Substack](https://img.shields.io/badge/Substack-rowi1de-orange?style=flat-square&logo=substack)](https://rowi1de.substack.com)
+
+---
+
 ### 🤝 Let’s Connect
 - 🌐 [linkedin.com/in/ro-wi](https://linkedin.com/in/ro-wi)
+- ✍️ [rowi1de.substack.com](https://rowi1de.substack.com)
 - ☕✨ [Buy me a coffee](https://buymeacoffee.com/rowi) if you enjoy my projects or want to support my work
 - 📝 _Check out my GitHub activity to see what I’ve been building recently._
