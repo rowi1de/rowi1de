@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Robert
 
-**Platform Engineer** at [Airthings](https://www.airthings.com), driving **technical leadership**, scaling developer infrastructure, and enabling high-performance engineering teams. I help bridge **product, business, and technology** to deliver value — fast and reliably.
+**Platform Engineer** driving **technical leadership**, scaling developer infrastructure, and enabling high-performance engineering teams. I help bridge **product, business, and technology** to deliver value — fast and reliably.
 
 ---
 
