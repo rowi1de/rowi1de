@@ -2,6 +2,8 @@
 
 **Platform Engineer** driving **technical leadership**, scaling developer infrastructure, and enabling high-performance engineering teams. I help bridge **product, business, and technology** to deliver value — fast and reliably.
 
+I recently joined [Easee](https://github.com/easee) ⚡️🚀
+
 ---
 
 ### 🛠️ What I Do
@@ -46,8 +48,9 @@ I enjoy solving complex problems, improving developer platforms, and helping tea
 ---
 
 ### 🏗️ Previously:
-- 🟪 Tech Lead at [Reev GmbH](https://github.com/emonvia) – EV cloud platform & services
-- 🟦 Expert Lead at [Scalable Capital](https://github.com/scacap) – FinTech
+- 🟨 Staff Platofrm Engineer Lead at [Airthings](https://github.com/airthings) – IoT Air Quality Monitors 💨
+- 🟪 Tech Lead at [Reev GmbH](https://github.com/emonvia) – EV cloud platform & services 🔌
+- 🟦 Expert Lead at [Scalable Capital](https://github.com/scacap) – FinTech 💸
 
 ---
 
