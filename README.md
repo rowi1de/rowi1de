@@ -2,26 +2,33 @@
 
 **Platform Engineer** driving **technical leadership**, scaling developer infrastructure, and enabling high-performance engineering teams. I help bridge **product, business, and technology** to deliver value — fast and reliably.
 
-I recently joined [Easee](https://github.com/easee) ⚡️🚀
+I recently joined [Easee](https://github.com/easee) ⚡️🚀 — a leading EV charging company, working on platform engineering.
 
 ---
 
 ### 🛠️ What I Do
-- Build **platform and infrastructure** at **global scale** with a focus on **observability**, **resilience**, **cost efficiency**, and **scalability**
-- Empower developers through automation, clear interfaces, and shared standards
-- Drive alignment between **product goals** and **engineering execution** 🎯
-- Promote **knowledge sharing**, mentorship, and team enablement 📚🔥
-- Provide **technical leadership** across teams and systems 💬🧭
+- Platform and infrastructure engineering — **observability**, **resilience**, **cost efficiency**, **developer enablement**
+- Bringing experience in technical leadership that bridges **product, business, and engineering execution**
 
 ---
 
-### 🧠 Currently Building
-Turning **AI-assisted engineering** from experiment into production-grade workflow.
+### ⚡ Currently at Easee
 
-- Building **[Claude Code](https://claude.com/claude-code) Skills & Plugins** — markdown-based instruction sets that encode team knowledge, conventions, and domain expertise so AI applies them automatically
-- Setting up **shared plugin marketplaces** — internal skill registries so entire teams benefit from codified best practices
-- Integrating AI into **CI/CD pipelines**, infrastructure workflows, and developer platform tooling
-- Establishing guardrails to prevent **architectural drift**, ensure **spec consistency**, and keep AI-generated changes reviewable
+Contributing to and improving the **internal developer platform** and **IoT platform** for EV charging infrastructure as part of the platform team 🏭 — [easee.com](https://easee.com) · [github.com/easee](https://github.com/easee)
+
+---
+
+### 🧠 Currently Building / Trying
+
+- Turning **AI-assisted engineering** from experiment into production-grade workflow — building **[Claude Code](https://claude.com/claude-code) Skills & Plugins**, shared team registries, AI-assisted CI/CD
+- ✍️ Writing about platform engineering and AI tooling on [Substack](https://rowi1de.substack.com) _(on pause)_
+
+---
+
+### 📖 Currently Learning
+
+- **C#** / .NET — after years of JVM-land
+- **Pulumi** — TypeScript-first IaC
 
 ---
 
@@ -51,16 +58,6 @@ I enjoy solving complex problems, improving developer platforms, and helping tea
 - 🟨 Staff Platofrm Engineer Lead at [Airthings](https://github.com/airthings) – IoT Air Quality Monitors 💨
 - 🟪 Tech Lead at [Reev GmbH](https://github.com/emonvia) – EV cloud platform & services 🔌
 - 🟦 Expert Lead at [Scalable Capital](https://github.com/scacap) – FinTech 💸
-
----
-
-### ✍️ Writing
-
-I write about AI-assisted engineering, platform building, and developer tooling on Substack:
-
-[![Substack](https://img.shields.io/badge/Substack-rowi1de-orange?style=flat-square&logo=substack)](https://rowi1de.substack.com)
-
-> **Full disclosure:** My articles are written with AI assistance — because that’s the whole point. I’m experimenting with using the same tool for developing AND sharing knowledge. The ideas and experience are real, the writing is a collaboration.
 
 ---
 
