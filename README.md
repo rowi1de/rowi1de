@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Robert
 
-**Senior Platform Engineer / Tech Lead** at [Easee](https://github.com/easee) ⚡️ — building scalable, cost-efficient and secure platforms and developer experience.
+**Senior Platform Engineer** at [Easee](https://github.com/easee) ⚡️ — building scalable, cost-efficient and secure platforms and developer experience.
 
 ---
 
