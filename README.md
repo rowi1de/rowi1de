@@ -27,8 +27,7 @@ I value **integrity, reliability, curiosity, and consistency** — direct commun
 - Pulumi 🏗️, C# / .NET 🧑‍💻
 - Prompting, agent workflows, headless Claude runs 🤔
 
-### ~~🧑‍💻 Ask Me About~~  
-### 🧑‍💻 Things People Asked Me Before AI
+### ~~🧑‍💻 Ask Me About~~ 🧑‍💻 Things People Asked Me Before AI
 
 - Kotlin 🥳, Spring Boot 🍃
 - GitHub Actions 🤖, GitOps 🔁
