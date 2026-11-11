@@ -8,8 +8,6 @@
 
 Platform, API gateway, security, and AI-assisted engineering.
 
-📊 [Engineering contributions & numbers](https://rowi1de.github.io/contributions)
-
 ---
 
 ### 🧭 How to Work With Me
